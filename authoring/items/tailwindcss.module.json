@@ -1,0 +1,53 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "tailwindcss",
+  "items": {
+    "includes": [
+      {
+        "name": "tailwindcss",
+        "path": "/sitecore/content/Sites/Tailwindcss",
+        "rules": [
+          {
+            "path": "/home",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Media",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Data",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Dictionary",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Presentation",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Settings",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "*",
+            "scope": "Ignored"
+          }
+        ]
+      },
+      {
+        "name": "media-library",
+        "path": "/sitecore/media library/Project/Sites/Tailwindcss",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}
