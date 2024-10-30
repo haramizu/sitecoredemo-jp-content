@@ -22,7 +22,7 @@ Languages:
       Value: 20241004T030001Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Tailwindcss
+      Value: Home
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -33,17 +33,17 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "44c680f4-380c-4a71-a791-19570d3b9477"
+      Value: "16a7e570-8924-47f4-ad02-dd254faa55fd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20241004T030015Z
+      Value: 20241030T063631Z
     - ID: "e8921a41-d3eb-4c15-a43f-f4d277e48b53"
       Hint: Title
-      Value: Tailwindcss
+      Value: Home
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
