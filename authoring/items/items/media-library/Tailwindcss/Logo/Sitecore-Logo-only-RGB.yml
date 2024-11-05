@@ -1,0 +1,79 @@
+﻿---
+ID: "916502c2-7950-4a93-828f-081d0514fa29"
+Parent: "40087a68-a0e4-4570-912b-85d9790bdbd4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Sites/Tailwindcss/Logo/Sitecore-Logo-only-RGB"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/916502C279504A93828F081D0514FA29.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "23b5c569-c81a-473e-8feb-154b956a54d3"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNy44LjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMl8wMDAwMDA1MDYzOTY1Mjg2OTk2MzQxNzA5MDAwMDAwNTg5OTkwNDEyOTE4NzQzMzM3OV8iDQoJIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgOTkuNiA5OS42Ig0KCSBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA5OS42IDk5LjY7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNFQjFGMUY7fQ0KPC9zdHlsZT4NCjxnPg0KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00Nyw3OS4xYy0xMC45LDAtMjEtNS40LTI4LjMtMTQuN2M1LjUsMTEuNywxNy40LDE5LjgsMzEuMSwxOS44YzEyLjcsMCwyMy45LTcsMjkuOC0xNy4zbC01LjMtMy40DQoJCUM2OC40LDczLjMsNTguMyw3OS4xLDQ3LDc5LjFMNDcsNzkuMUw0Nyw3OS4xeiBNNzIuMyw0NS41SDg0Yy0wLjctNS45LTMtMTEuMy02LjMtMTUuOWwtMTEuOSw3LjdjMy42LDUuNyw0LjEsMTIsMS4zLDE4LjMNCgkJYy0zLjMsNy41LTExLDE0LTE5LjYsMTcuMWMzLjktMC41LDcuNy0xLjcsMTEuMS0zLjZjOC40LTQuNywxMy4zLTEyLjgsMTMuNy0yMi43TDcyLjMsNDUuNUw3Mi4zLDQ1LjV6IE04NC4yLDQ5LjgNCgkJYzAtMC44LDAtMS43LTAuMS0yLjVINzRjLTAuNywxMC4xLTYsMTguNS0xNC42LDIzLjNjLTQuOSwyLjctMTAuNSw0LjEtMTYuMiw0LjFjLTQuNCwwLTguOS0wLjgtMTMuMi0yLjRjNS4yLDMuMiwxMSw1LDE3LDVoMC4xDQoJCWMxMC45LDAsMjAuNy01LjgsMjYuMi0xNS40bDAuNS0wLjhsNi44LDQuM0M4Mi45LDYwLjcsODQuMyw1NS40LDg0LjIsNDkuOCBNODYuMSw0OS44YzAsMjAtMTYuMiwzNi4yLTM2LjIsMzYuMg0KCQlTMTMuNiw2OS44LDEzLjYsNDkuOHMxNi4yLTM2LjIsMzYuMi0zNi4yUzg2LDI5LjgsODYuMSw0OS44IE05OS42LDQ5LjhDOTkuNiwyMi4zLDc3LjMsMCw0OS44LDBTMCwyMi4zLDAsNDkuOA0KCQlzMjIuMyw0OS44LDQ5LjgsNDkuOFM5OS42LDc3LjMsOTkuNiw0OS44Ii8+DQo8L2c+DQo8L3N2Zz4NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1240
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241105T021702Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Sitecore
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04be817e-5d84-40a9-ba90-307e3ce3b52d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241105T021709Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241105T022413Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Sitecore
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac5d8b9d-bac2-4ba8-a66f-bedc81d4ef43"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241105T022421Z

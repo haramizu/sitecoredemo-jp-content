@@ -1,16 +1,16 @@
 ﻿---
-ID: "f38c9aaf-eddb-4596-961d-5ec155a8e207"
-Parent: "dceebd46-c434-4893-b7e3-b176e49bf3ca"
-Template: "2934bf8e-2a0b-4269-bade-de40a654ee2f"
-Path: /sitecore/content/Sites/Tailwindcss/Presentation/Page Designs
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+ID: "3fefddbe-3122-4ac6-9899-bef06f683a62"
+Parent: "d82d5ba4-407e-4465-97a2-3f78bb0b0398"
+Template: "eb402b39-57b6-4abc-b488-06bb63fac1c6"
+Path: /sitecore/content/Sites/Tailwindcss/Home/Articles
 SharedFields:
-- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
-  Hint: TemplatesMapping
-  Value: "%7bEB402B39-57B6-4ABC-B488-06BB63FAC1C6%7d%3d%257BFBDB1209-FCB3-4104-BB03-4E81A05D0C7D%257D"
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{88D10E3E-F6FF-4D34-811F-E525190BD78F}" />
 Languages:
 - Language: en
   Versions:
@@ -18,51 +18,55 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20241004T030001Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\shinichi.haramizu@sitecore.com
+      Value: 20241105T022859Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Articles
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2f819af8-70be-4240-98b6-676fee1a9e3c"
+      Value: "e85f1c28-b886-4f12-83ef-7173e46fce60"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20241105T015607Z
+      Value: 20241105T022901Z
+    - ID: "e8921a41-d3eb-4c15-a43f-f4d277e48b53"
+      Hint: Title
+      Value: Articles
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: ページ デザイン
+    Value: 技術情報
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20241004T070548Z
+      Value: 20241105T022939Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 技術情報
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\Admin
+        sitecore\shinichi.haramizu@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6da0004b-b1dc-4735-a937-8716b2713999"
+      Value: "03b5efd3-487d-4150-9743-9de322dc325b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20241004T070548Z
+      Value: 20241105T023110Z
+    - ID: "e8921a41-d3eb-4c15-a43f-f4d277e48b53"
+      Hint: Title
+      Value: 技術情報
