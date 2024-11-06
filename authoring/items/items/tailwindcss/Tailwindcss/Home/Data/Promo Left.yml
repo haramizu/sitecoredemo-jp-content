@@ -1,0 +1,67 @@
+﻿---
+ID: "280b5751-d783-4562-9e35-5efc455a0d02"
+Parent: "009ad059-8288-4ba6-8b84-b62f4826acc8"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/Sites/Tailwindcss/Home/Data/Promo Left
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T012819Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5330a91c-3636-4763-a775-98a71a480ad6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241106T013030Z
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image src="https://sitecoredemojp.sitecoresandbox.cloud/api/public/content/c71937b54c5f457ba01b9eb1881cc838?v=d59905f7" dam-id="7Cgyv6EVS3mGQ9Ta_VyOiQ" width="800" height="800" alt="GettyImages-108645310.jpg" dam-content-type="Image" thumbnailsrc="https://sitecoredemojp.sitecoresandbox.cloud/api/gateway/33837/thumbnail" />
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241106T013412Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef5eb1af-5bb2-4465-95df-f1e8d65521c4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shinichi.haramizu@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241106T013435Z
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image src="https://sitecoredemojp.sitecoresandbox.cloud/api/public/content/c71937b54c5f457ba01b9eb1881cc838?v=d8bc761f" dam-id="7Cgyv6EVS3mGQ9Ta_VyOiQ" width="800" height="800" alt="GettyImages-108645310.jpg" dam-content-type="Image" thumbnailsrc="https://sitecoredemojp.sitecoresandbox.cloud/api/gateway/33837/thumbnail" />
