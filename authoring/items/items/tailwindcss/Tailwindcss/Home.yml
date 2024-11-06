@@ -17,37 +17,37 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          uid="{2A862CF1-5F55-43B0-AEFD-43DD61BA44E6}"
+          uid="{E497B465-AE56-4959-A00C-7F02B5EE9F7C}"
           p:before="*"
           s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
           s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
           s:ph="headless-main" />
         <r
-          uid="{F9CB3F54-45CB-4013-B0B7-6D722F39DD3F}"
-          p:after="r[@uid='{2A862CF1-5F55-43B0-AEFD-43DD61BA44E6}']"
+          uid="{4F6FF604-1BCC-47ED-8329-6BD2C4FCD079}"
+          p:after="r[@uid='{E497B465-AE56-4959-A00C-7F02B5EE9F7C}']"
           s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
           s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
           s:ph="/headless-main/row-2-1" />
         <r
-          uid="{79D2F8B8-0C11-44C5-9A57-93B34E244137}"
-          p:after="r[@uid='{F9CB3F54-45CB-4013-B0B7-6D722F39DD3F}']"
+          uid="{0C8708FE-CF60-43F6-8E72-AB40D5C85FED}"
+          p:after="r[@uid='{4F6FF604-1BCC-47ED-8329-6BD2C4FCD079}']"
           s:ds="local:/Data/Hero"
           s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
           s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BDB2AD4F8-614C-4106-9650-95EE7FF0A532%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
           s:ph="/headless-main/row-1-1" />
         <r
-          uid="{F9A23AD7-3BD1-4544-9E2B-62DC64CBED60}"
-          p:after="r[@uid='{79D2F8B8-0C11-44C5-9A57-93B34E244137}']"
+          uid="{7954AB55-7E8D-464F-BA80-EF87D550561D}"
+          p:after="r[@uid='{0C8708FE-CF60-43F6-8E72-AB40D5C85FED}']"
           s:ds="local:/Data/Promo Left"
           s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BEDDB993E-97A8-4FED-989D-1C55C042D43D%7D&amp;Styles=%7C%7B342AA51A-E631-4B62-8BA4-DEFA4FA34A8D%7D%7C%7BF9F88895-49D3-4490-81F2-C79970346961%7D%7C%7BBCE6CE9A-6CFA-47F1-B11A-E2EE373698D2%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BEDDB993E-97A8-4FED-989D-1C55C042D43D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
           s:ph="/headless-main/row-2-1/column-1-2" />
         <r
-          uid="{AC2508C6-A4E2-4D11-9522-4378911F0D85}"
+          uid="{ADD9B470-D829-401D-AEA1-B4CA49C87FBC}"
           p:after="*[1=2]"
           s:ds="local:/Data/Promo Right"
           s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BEDDB993E-97A8-4FED-989D-1C55C042D43D%7D&amp;Styles=%7C%7BF9F88895-49D3-4490-81F2-C79970346961%7D%7C%7BBCE6CE9A-6CFA-47F1-B11A-E2EE373698D2%7D%7C%7B342AA51A-E631-4B62-8BA4-DEFA4FA34A8D%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BEDDB993E-97A8-4FED-989D-1C55C042D43D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
           s:ph="/headless-main/row-2-1/column-2-2" />
       </d>
     </r>
@@ -62,24 +62,12 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{79D2F8B8-0C11-44C5-9A57-93B34E244137}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BDB2AD4F8-614C-4106-9650-95EE7FF0A532%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3" />
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20241004T030001Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Home
+      Value: Tailwindcss
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -90,14 +78,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "50b1ff0b-ed81-43b6-80bb-010296992f66"
+      Value: "40dca453-4a64-4724-aa10-80bb249bcabb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20241106T015403Z
+      Value: 20241106T042304Z
     - ID: "e8921a41-d3eb-4c15-a43f-f4d277e48b53"
       Hint: Title
       Value: Home
@@ -112,9 +100,6 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20241004T031232Z
@@ -131,14 +116,14 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fbde5b37-48d9-4079-9cbc-5969460fc826"
+      Value: "7f17131c-9b74-4d7a-b155-4032739c6cd2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20241106T024724Z
+      Value: 20241106T042516Z
     - ID: "e8921a41-d3eb-4c15-a43f-f4d277e48b53"
       Hint: Title
       Value: ホーム

@@ -4,11 +4,6 @@ Parent: "d82d5ba4-407e-4465-97a2-3f78bb0b0398"
 Template: "eb402b39-57b6-4abc-b488-06bb63fac1c6"
 Path: /sitecore/content/Sites/Tailwindcss/Home/Products
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: |
-    {EB402B39-57B6-4ABC-B488-06BB63FAC1C6}
-    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -26,14 +21,14 @@ Languages:
       Value: Products
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b77b8231-c23d-43cd-8d38-642956314b57"
+      Value: "2677598a-c1a8-453a-93e2-96743b9875f5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20241106T011907Z
+      Value: 20241105T022852Z
     - ID: "e8921a41-d3eb-4c15-a43f-f4d277e48b53"
       Hint: Title
       Value: Products
